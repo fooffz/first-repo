@@ -25,6 +25,6 @@ int main(){
 ```
 
 数学公式（四个$）：
-$$ 
-\frac{\partial f}{\partial x} = 2\sqrt{a}x 
+$$
+\frac{\partial f}{\partial x} = 2\sqrt{a}x \tag{1}
 $$
